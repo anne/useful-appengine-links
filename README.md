@@ -12,4 +12,6 @@ URL Shortener
 http://stackoverflow.com/questions/742013/how-to-code-a-url-shortener
 https://www.flickr.com/groups/api/discuss/72157616713786392/ how flickr does shortlinks
 
+CSV: https://groups.google.com/forum/#!topic/google-appengine/L64wByP7GAY
+
 
