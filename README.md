@@ -15,3 +15,6 @@ https://www.flickr.com/groups/api/discuss/72157616713786392/ how flickr does sho
 CSV: https://groups.google.com/forum/#!topic/google-appengine/L64wByP7GAY
 
 
+Mailchimp stores opt-in data
+http://kb.mailchimp.com/article/can-i-add-just-one-recipient-at-a-time-to-my-list/
+http://kb.mailchimp.com/article/how-can-i-add-previous-opt-in-data-to-my-mailchimp-list/
